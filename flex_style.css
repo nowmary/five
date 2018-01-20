@@ -7,7 +7,7 @@
         text-align: center;
     }
 
-    header, footer, .nav, ul, .article{
+    header, footer, nav, article {
         padding: 15px;
         -webkit-flex: 1 100%;
         flex: 1 100%;
